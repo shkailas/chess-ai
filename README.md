@@ -15,16 +15,7 @@ Then run
 * Move Orderin based on Capture Value
 * Cython implementation
 * Opening Book Usage
-## Who Did What
-* Minimax Algorithm (Agustya, Shankar)
-* Alpha-Beta Pruning (Agustya, Shankar)
-* Data Finding + Pipeline for CNN (Joshua)
-* CNN Design + Implementation (Joshua)
-* Move Ordering (Joshua)
-* Cython Implementation (Joshua)
-* Training CNN (Shankar)
-* Attempts at Multiprocessing (Shankar)
-* Opening Books (Joshua)
+
 ## File Functions
 ### Folders
 * `code1` folder includes the code for our chess AI
