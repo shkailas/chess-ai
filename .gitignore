@@ -1,0 +1,8 @@
+*.pyc
+/.vscode/*
+/__pycache__/*
+*.npy
+*.c*
+**/build
+*.o
+build/
